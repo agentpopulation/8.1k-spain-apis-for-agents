@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 416" width="1280" height="416" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" role="img">
+<defs>
+<linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366F1"/><stop offset="0.5" stop-color="#EA580C"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+<clipPath id="card"><rect x="1" y="1" width="1278" height="414" rx="24"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1278" height="414" rx="24" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<rect x="0" y="0" width="1280" height="8" fill="url(#stripe)" clip-path="url(#card)"/>
+<text x="64" y="56" font-size="18" font-weight="700" fill="#0F172A">Categories (top 8)</text>
+<text x="64" y="97" font-size="15" fill="#0F172A">Government data</text>
+<rect x="300" y="80" width="240" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="97" font-size="15" fill="#0F172A" text-anchor="end">3,738</text>
+<text x="64" y="137" font-size="15" fill="#0F172A">Maps &amp; navigation</text>
+<rect x="300" y="120" width="131" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="137" font-size="15" fill="#0F172A" text-anchor="end">2,041</text>
+<text x="64" y="177" font-size="15" fill="#0F172A">Statistics</text>
+<rect x="300" y="160" width="88" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="177" font-size="15" fill="#0F172A" text-anchor="end">1,376</text>
+<text x="64" y="217" font-size="15" fill="#0F172A">Health</text>
+<rect x="300" y="200" width="35" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="217" font-size="15" fill="#0F172A" text-anchor="end">548</text>
+<text x="64" y="257" font-size="15" fill="#0F172A">Weather &amp; climate</text>
+<rect x="300" y="240" width="9" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="257" font-size="15" fill="#0F172A" text-anchor="end">142</text>
+<text x="64" y="297" font-size="15" fill="#0F172A">Transport</text>
+<rect x="300" y="280" width="6" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="297" font-size="15" fill="#0F172A" text-anchor="end">100</text>
+<text x="64" y="337" font-size="15" fill="#0F172A">Environment</text>
+<rect x="300" y="320" width="5" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="337" font-size="15" fill="#0F172A" text-anchor="end">72</text>
+<text x="64" y="377" font-size="15" fill="#0F172A">Energy</text>
+<rect x="300" y="360" width="3" height="24" rx="6" fill="#6366F1"/>
+<text x="620" y="377" font-size="15" fill="#0F172A" text-anchor="end">44</text>
+<text x="700" y="56" font-size="18" font-weight="700" fill="#0F172A">Formats</text>
+<rect x="700.0" y="80" width="388.9" height="32" fill="#6366F1" fill-opacity="1"/>
+<rect x="1088.9" y="80" width="69.2" height="32" fill="#0F172A" fill-opacity="0.55"/>
+<rect x="1158.1" y="80" width="57.9" height="32" fill="#16A34A" fill-opacity="1"/>
+<rect x="700" y="140" width="20" height="20" rx="4" fill="#6366F1" fill-opacity="1"/>
+<text x="732" y="155" font-size="15" fill="#0F172A">json 6,134</text>
+<rect x="700" y="180" width="20" height="20" rx="4" fill="#0F172A" fill-opacity="0.55"/>
+<text x="732" y="195" font-size="15" fill="#0F172A">xml 1,091</text>
+<rect x="700" y="220" width="20" height="20" rx="4" fill="#16A34A" fill-opacity="1"/>
+<text x="732" y="235" font-size="15" fill="#0F172A">csv 914</text>
+<text x="1216" y="392" font-size="16" font-weight="700" fill="#C2410C" text-anchor="end">agentpopulation.com</text>
+</svg>

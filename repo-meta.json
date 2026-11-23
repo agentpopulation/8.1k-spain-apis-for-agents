@@ -1,0 +1,31 @@
+{
+  "name": "8.1k-spain-apis-for-agents",
+  "new_name": "8.1k-spain-apis-for-agents",
+  "url": "https://github.com/agentpopulation/8.1k-spain-apis-for-agents",
+  "description": "8,139 API endpoints filed under country code ES that passed a keyless data call. For agent tools, apps, pipelines and evals. CSV, CC BY 4.0.",
+  "homepage": "https://agentpopulation.com/apis",
+  "topics": [
+    "api-endpoints",
+    "open-data",
+    "dataset",
+    "ai-agents",
+    "agent-tools",
+    "agentpopulation",
+    "spain",
+    "espana",
+    "spain-data",
+    "geospatial",
+    "canarias",
+    "map-layers"
+  ],
+  "release": {
+    "tag": "snapshot-2026-11-16",
+    "title": "Spain API endpoints · snapshot 16 Nov 2026 · 8,139 endpoints",
+    "notesFile": "RELEASE_NOTES.md",
+    "manifest": "../_release/spain-api-endpoints/release.json",
+    "assets": [
+      "../_release/spain-api-endpoints/Spain_API_Endpoints_AgentPopulation_Snapshot_2026-11-16.csv.gz",
+      "../_release/spain-api-endpoints/SHA256SUMS.txt"
+    ]
+  }
+}

@@ -1,0 +1,1453 @@
+{
+  "repo": "spain-api-endpoints",
+  "title": "Spain API endpoints",
+  "snapshot": "2026-11-16",
+  "snapshot_text": "16 Nov 2026",
+  "snapshot_time": "2026-11-16 00:00:00 IST",
+  "run": true,
+  "tested_total": 4452803,
+  "passed_total": 3346053,
+  "rows": 8139,
+  "unique_urls": 8139,
+  "services": 141,
+  "country_codes": 1,
+  "single_country": "ES",
+  "agent_ready": 6134,
+  "range": {
+    "min": "2026-11-16",
+    "max": "2026-11-16",
+    "text": "16 Nov 2026"
+  },
+  "formats": {
+    "json": 6134,
+    "xml": 1091,
+    "csv": 914
+  },
+  "categories": {
+    "Government & Open Data": 3738,
+    "Navigation & Geo/Maps": 2041,
+    "Statistics & Economy": 1376,
+    "Health": 548,
+    "Weather & Climate": 142,
+    "Transport & Mobility": 100,
+    "Environment": 72,
+    "Energy": 44,
+    "Hazards": 35,
+    "Hydrology & Oceans": 22,
+    "Aviation": 12,
+    "Finance": 6,
+    "Science": 3
+  },
+  "tags": {
+    "no-key": 8139,
+    "agent-ready": 6134,
+    "json": 6134,
+    "xml": 1091,
+    "csv": 914
+  },
+  "dates": {
+    "2026-11-16": 8139
+  },
+  "countryNames": {
+    "ES": "Spain"
+  },
+  "leftOutCredential": 0,
+  "leftOutListing": 0,
+  "left_out_by_reason": {
+    "listing page, not a data call": 0,
+    "credential in the address": 0,
+    "private or local address": 0,
+    "email-like address": 0,
+    "survey form layer": 61,
+    "camera or image URL": 0,
+    "stored-login proxy": 0,
+    "class-exercise copy": 0,
+    "editable layer": 1,
+    "police stop records": 0,
+    "form answer layer": 15,
+    "needs an Indian network location": 0,
+    "leak check match": 0,
+    "coursework layer": 66,
+    "public input layer": 0,
+    "personal records layer": 2,
+    "service name like a class layer or a person": 0,
+    "social network server information": 0,
+    "another address of a left-out layer": 0,
+    "teaching organisation": 0,
+    "class account organisation": 2,
+    "class set layer": 6,
+    "university, college or school organisation": 0,
+    "repeated address": 0,
+    "address already in an earlier pack": 2,
+    "layer already in an earlier pack": 412,
+    "second address form of a layer": 1391
+  },
+  "leftOutExcluded": 0,
+  "left_out_by_rule": [],
+  "sample_rows": 1000,
+  "focus_rows": 8071,
+  "arcgis_online_rows": 4152,
+  "subcategories": {},
+  "agent_formats": [
+    "json"
+  ],
+  "largestServices": [
+    {
+      "service": "Datos Abiertos de Canarias",
+      "display": "Datos Abiertos de Canarias",
+      "host": "datos.canarias.es",
+      "endpoints": 3810,
+      "agent_ready": 1805,
+      "in_focus": 3810,
+      "country_codes": 1,
+      "formats": [
+        "json",
+        "xml",
+        "csv"
+      ]
+    },
+    {
+      "service": "ArcGIS organization C3HgCqjBMl1pyvzK",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org C3HgCqjBMl1pyvzK)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 864,
+      "agent_ready": 864,
+      "in_focus": 863,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization HuGcP11ciutroljg",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org HuGcP11ciutroljg)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 566,
+      "agent_ready": 566,
+      "in_focus": 540,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization LYlXCI0Cv1tEOvkM",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org LYlXCI0Cv1tEOvkM)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 376,
+      "agent_ready": 376,
+      "in_focus": 363,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization LVA9E9zjh6QfM7Mo",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org LVA9E9zjh6QfM7Mo)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 320,
+      "agent_ready": 320,
+      "in_focus": 306,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization XDTEoosVb6mbI5ee",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org XDTEoosVb6mbI5ee)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 253,
+      "agent_ready": 253,
+      "in_focus": 253,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization HJZ4IZB6mQFqe0lK",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org HJZ4IZB6mQFqe0lK)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 125,
+      "agent_ready": 125,
+      "in_focus": 125,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization huF49oYTagCpb797",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org huF49oYTagCpb797)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 119,
+      "agent_ready": 119,
+      "in_focus": 119,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization JyY1Tfb8ShrMQIdE",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org JyY1Tfb8ShrMQIdE)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 106,
+      "agent_ready": 106,
+      "in_focus": 105,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization Y0im5hxYVxvfLOro",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org Y0im5hxYVxvfLOro)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 95,
+      "agent_ready": 95,
+      "in_focus": 95,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Castillalamancha",
+      "display": "Castillalamancha",
+      "host": "geoservicios.castillalamancha.es",
+      "endpoints": 74,
+      "agent_ready": 74,
+      "in_focus": 74,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization 3Xgxip3BoxrYTPj9",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org 3Xgxip3BoxrYTPj9)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 70,
+      "agent_ready": 70,
+      "in_focus": 70,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization 6qu067tjnBgX8DW4",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org 6qu067tjnBgX8DW4)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 61,
+      "agent_ready": 61,
+      "in_focus": 61,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization GlbwYH8qvpzNZno5",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org GlbwYH8qvpzNZno5)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 58,
+      "agent_ready": 58,
+      "in_focus": 55,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization Et0t50k0BIgKUuLE",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org Et0t50k0BIgKUuLE)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 49,
+      "agent_ready": 49,
+      "in_focus": 48,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Ign",
+      "display": "Ign",
+      "host": "serviciosgis.ign.es",
+      "endpoints": 48,
+      "agent_ready": 48,
+      "in_focus": 47,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization UrtTdLP2PYSxwtI6",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org UrtTdLP2PYSxwtI6)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 45,
+      "agent_ready": 45,
+      "in_focus": 45,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization WCEIifo5j3luTcRc",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org WCEIifo5j3luTcRc)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 45,
+      "agent_ready": 45,
+      "in_focus": 45,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization 9OdsxSwES8vNXRId",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org 9OdsxSwES8vNXRId)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 41,
+      "agent_ready": 41,
+      "in_focus": 41,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization E6YomoZj1vqGepVM",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org E6YomoZj1vqGepVM)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 40,
+      "agent_ready": 40,
+      "in_focus": 40,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "Rivasciudad",
+      "display": "Rivasciudad",
+      "host": "sit.rivasciudad.es",
+      "endpoints": 40,
+      "agent_ready": 40,
+      "in_focus": 40,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization gInnN1cT3lT7tET2",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org gInnN1cT3lT7tET2)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 37,
+      "agent_ready": 37,
+      "in_focus": 37,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization LZ34GBXK59x9Cuz1",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org LZ34GBXK59x9Cuz1)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 34,
+      "agent_ready": 34,
+      "in_focus": 34,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization WlVt7XtJWxCz9XOk",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org WlVt7XtJWxCz9XOk)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 33,
+      "agent_ready": 33,
+      "in_focus": 33,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    },
+    {
+      "service": "ArcGIS organization KmoBn3Qii9gbOa4C",
+      "display": "ArcGIS Online layers (services-eu1.arcgis.com, org KmoBn3Qii9gbOa4C)",
+      "host": "services-eu1.arcgis.com",
+      "endpoints": 31,
+      "agent_ready": 31,
+      "in_focus": 31,
+      "country_codes": 1,
+      "formats": [
+        "json"
+      ]
+    }
+  ],
+  "bannerGroups": [
+    {
+      "label": "Government & Open Data",
+      "n": 3738,
+      "agent": 2519
+    },
+    {
+      "label": "Navigation & Geo/Maps",
+      "n": 2041,
+      "agent": 2041
+    },
+    {
+      "label": "Statistics & Economy",
+      "n": 1376,
+      "agent": 920
+    },
+    {
+      "label": "Health",
+      "n": 548,
+      "agent": 287
+    },
+    {
+      "label": "Weather & Climate",
+      "n": 142,
+      "agent": 89
+    },
+    {
+      "label": "Transport & Mobility",
+      "n": 100,
+      "agent": 91
+    }
+  ],
+  "focus_text": "NOT title matches /(?<![a-z])(test|tests|testing|draft|drafts|copy|sample|samples|demo|untitled|scratch|temp|tmp|delete|deleteme|practice|dummy|example|training)(?![a-z])|final_final|\\d{7,}/i",
+  "buckets": [
+    {
+      "id": "agent",
+      "emoji": "🤖",
+      "name": "Agent tools",
+      "title": "Keyless JSON layers and tables an agent can call (Spain)",
+      "build": "Wrap one layer query as a get_layer_features tool: pass a where clause or a bounding box, return the matching features with a timeout.",
+      "filter": {
+        "tag": "agent-ready"
+      },
+      "filter_text": "tags has agent-ready",
+      "fallback": false,
+      "notes": [
+        {
+          "count": 4329,
+          "text": "are map-layer queries that asked for a few records (`resultRecordCount`); add a where clause or a geometry to ask about one place, and page through for the whole layer."
+        }
+      ],
+      "count": 6134,
+      "services_matching": 141,
+      "country_codes_matching": 1,
+      "formats_matching": 1,
+      "example": {
+        "url": "https://services-eu1.arcgis.com/C3HgCqjBMl1pyvzK/ArcGIS/rest/services/1996/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+        "title": "1996",
+        "service": "ArcGIS Online layers (services-eu1.arcgis.com, org C3HgCqjBMl1pyvzK)",
+        "last_tested": "2026-11-16"
+      },
+      "recommended": {
+        "criteria": "Services in this pack with the most endpoints that match this bucket and are tagged `agent-ready` (no key sent in the test call, JSON body, passed a data call). Ties go to the service with more country codes, then by name. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Sample preference in this bucket: `url matches //query\\?/i`. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 141,
+        "services": [
+          {
+            "service": "Datos Abiertos de Canarias",
+            "display": "Datos Abiertos de Canarias",
+            "host": "datos.canarias.es",
+            "endpoints_in_bucket": 1805,
+            "endpoints_in_pack": 3810,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 3,
+            "sample_url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json",
+            "sample_title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Castillalamancha",
+            "display": "Castillalamancha",
+            "host": "geoservicios.castillalamancha.es",
+            "endpoints_in_bucket": 74,
+            "endpoints_in_pack": 74,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.castillalamancha.es/arcgis/rest/services/SIOSE/SIOSE_2015/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "SIOSE/SIOSE_2015",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Ign",
+            "display": "Ign",
+            "host": "serviciosgis.ign.es",
+            "endpoints_in_bucket": 48,
+            "endpoints_in_pack": 48,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://serviciosgis.ign.es/servicios/rest/services/Hosted/Naturaleza/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Hosted/Naturaleza",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Rivasciudad",
+            "display": "Rivasciudad",
+            "host": "sit.rivasciudad.es",
+            "endpoints_in_bucket": 40,
+            "endpoints_in_pack": 40,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://sit.rivasciudad.es/server/rest/services/%C3%81reas_de_incidencia_COVID/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Áreas_de_incidencia_COVID",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Cantabria",
+            "display": "Cantabria",
+            "host": "geoservicios.cantabria.es",
+            "endpoints_in_bucket": 15,
+            "endpoints_in_pack": 15,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.cantabria.es/inspire/rest/services/Ocio_Deportes_Turismo/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Ocio_Deportes_Turismo",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          }
+        ]
+      }
+    },
+    {
+      "id": "app",
+      "emoji": "📱",
+      "name": "App features",
+      "title": "Map services and layers to draw (Spain)",
+      "build": "Add the layers to an app map: read the service once, then ask for the features or the map of the visible area.",
+      "filter": {
+        "or": [
+          {
+            "urlMatches": "/(Feature|Map)Server/"
+          },
+          {
+            "urlMatches": "[?&]service=w[mf]s"
+          }
+        ]
+      },
+      "filter_text": "url matches //(Feature|Map)Server//i OR url matches /[?&]service=w[mf]s/i",
+      "fallback": false,
+      "notes": [],
+      "count": 4889,
+      "services_matching": 141,
+      "country_codes_matching": 1,
+      "formats_matching": 3,
+      "example": {
+        "url": "https://services-eu1.arcgis.com/C3HgCqjBMl1pyvzK/ArcGIS/rest/services/1996/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+        "title": "1996",
+        "service": "ArcGIS Online layers (services-eu1.arcgis.com, org C3HgCqjBMl1pyvzK)",
+        "last_tested": "2026-11-16"
+      },
+      "recommended": {
+        "criteria": "Services in this pack with the most endpoints that match this bucket and passed a data call. Ties go to the service with more country codes, then by name. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 141,
+        "services": [
+          {
+            "service": "Datos Abiertos de Canarias",
+            "display": "Datos Abiertos de Canarias",
+            "host": "datos.canarias.es",
+            "endpoints_in_bucket": 560,
+            "endpoints_in_pack": 3810,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "xml",
+              "csv",
+              "json"
+            ],
+            "formats_in_pack": 3,
+            "sample_url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json",
+            "sample_title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Castillalamancha",
+            "display": "Castillalamancha",
+            "host": "geoservicios.castillalamancha.es",
+            "endpoints_in_bucket": 74,
+            "endpoints_in_pack": 74,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.castillalamancha.es/arcgis/rest/services/SIOSE/SIOSE_2015/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "SIOSE/SIOSE_2015",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Ign",
+            "display": "Ign",
+            "host": "serviciosgis.ign.es",
+            "endpoints_in_bucket": 48,
+            "endpoints_in_pack": 48,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://serviciosgis.ign.es/servicios/rest/services/Hosted/Naturaleza/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Hosted/Naturaleza",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Rivasciudad",
+            "display": "Rivasciudad",
+            "host": "sit.rivasciudad.es",
+            "endpoints_in_bucket": 40,
+            "endpoints_in_pack": 40,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://sit.rivasciudad.es/server/rest/services/%C3%81reas_de_incidencia_COVID/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Áreas_de_incidencia_COVID",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Cantabria",
+            "display": "Cantabria",
+            "host": "geoservicios.cantabria.es",
+            "endpoints_in_bucket": 15,
+            "endpoints_in_pack": 15,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.cantabria.es/inspire/rest/services/Ocio_Deportes_Turismo/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Ocio_Deportes_Turismo",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          }
+        ]
+      }
+    },
+    {
+      "id": "grounding",
+      "emoji": "🧠",
+      "name": "Grounding and data pipelines",
+      "title": "Statistics and land-use layers for scheduled loads (Spain)",
+      "build": "Load the statistics and land-use layers on a schedule into your own store, so an agent can cite a dated source.",
+      "filter": {
+        "whole": true
+      },
+      "filter_text": "the whole pack",
+      "fallback": false,
+      "notes": [],
+      "count": 8139,
+      "services_matching": 141,
+      "country_codes_matching": 1,
+      "formats_matching": 3,
+      "example": {
+        "url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json",
+        "title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+        "service": "Datos Abiertos de Canarias",
+        "last_tested": "2026-11-16"
+      },
+      "recommended": {
+        "criteria": "Services in this pack with the most endpoints that match this bucket and passed a data call. Ties go to the service with more country codes, then by name. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 141,
+        "services": [
+          {
+            "service": "Datos Abiertos de Canarias",
+            "display": "Datos Abiertos de Canarias",
+            "host": "datos.canarias.es",
+            "endpoints_in_bucket": 3810,
+            "endpoints_in_pack": 3810,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json",
+              "xml",
+              "csv"
+            ],
+            "formats_in_pack": 3,
+            "sample_url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json",
+            "sample_title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Castillalamancha",
+            "display": "Castillalamancha",
+            "host": "geoservicios.castillalamancha.es",
+            "endpoints_in_bucket": 74,
+            "endpoints_in_pack": 74,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.castillalamancha.es/arcgis/rest/services/SIOSE/SIOSE_2015/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "SIOSE/SIOSE_2015",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Ign",
+            "display": "Ign",
+            "host": "serviciosgis.ign.es",
+            "endpoints_in_bucket": 48,
+            "endpoints_in_pack": 48,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://serviciosgis.ign.es/servicios/rest/services/Hosted/Naturaleza/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Hosted/Naturaleza",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Rivasciudad",
+            "display": "Rivasciudad",
+            "host": "sit.rivasciudad.es",
+            "endpoints_in_bucket": 40,
+            "endpoints_in_pack": 40,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://sit.rivasciudad.es/server/rest/services/%C3%81reas_de_incidencia_COVID/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Áreas_de_incidencia_COVID",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Cantabria",
+            "display": "Cantabria",
+            "host": "geoservicios.cantabria.es",
+            "endpoints_in_bucket": 15,
+            "endpoints_in_pack": 15,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.cantabria.es/inspire/rest/services/Ocio_Deportes_Turismo/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Ocio_Deportes_Turismo",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          }
+        ]
+      }
+    },
+    {
+      "id": "evals",
+      "emoji": "🧪",
+      "name": "Evals and testing",
+      "title": "Varied responses to test tool calls and parsers",
+      "build": "Run your tool calls against a fixed set of URLs across formats and record which answer; last_tested is the baseline for your own re-tests.",
+      "filter": {
+        "whole": true
+      },
+      "filter_text": "the whole pack",
+      "fallback": false,
+      "notes": [],
+      "count": 8139,
+      "services_matching": 141,
+      "country_codes_matching": 1,
+      "formats_matching": 3,
+      "example": {
+        "url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json",
+        "title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+        "service": "Datos Abiertos de Canarias",
+        "last_tested": "2026-11-16"
+      },
+      "recommended": {
+        "criteria": "Services in this pack that returned the most different formats, then the most endpoints that passed a data call, then by name: a mix of response shapes to test parsers and tool calls. Only services with at least one bucket row that matches the focus rule are listed, and the sample comes from those rows; the counts cover the whole bucket. The sample URL is the first row by URL sort after preferring, in this order: rows that match the bucket's sample preference when it has one, rows that return values rather than describe a dataset or a service (not ERDDAP /info/ pages, OGC GetCapabilities requests, bare OWS addresses, PxWeb tables, UN SDG series lists, Statistics Canada download pointers, WorldPop listings, GTFS validation reports, untitled rows or service root addresses), and agent-ready rows. Services named \"ArcGIS organization\" hold map layers from many owners and are added only when fewer than 5 other services match.",
+        "available": 141,
+        "services": [
+          {
+            "service": "Datos Abiertos de Canarias",
+            "display": "Datos Abiertos de Canarias",
+            "host": "datos.canarias.es",
+            "endpoints_in_bucket": 3810,
+            "endpoints_in_pack": 3810,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json",
+              "xml",
+              "csv"
+            ],
+            "formats_in_pack": 3,
+            "sample_url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json",
+            "sample_title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Castillalamancha",
+            "display": "Castillalamancha",
+            "host": "geoservicios.castillalamancha.es",
+            "endpoints_in_bucket": 74,
+            "endpoints_in_pack": 74,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.castillalamancha.es/arcgis/rest/services/SIOSE/SIOSE_2015/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "SIOSE/SIOSE_2015",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Ign",
+            "display": "Ign",
+            "host": "serviciosgis.ign.es",
+            "endpoints_in_bucket": 48,
+            "endpoints_in_pack": 48,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://serviciosgis.ign.es/servicios/rest/services/Hosted/Naturaleza/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Hosted/Naturaleza",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Rivasciudad",
+            "display": "Rivasciudad",
+            "host": "sit.rivasciudad.es",
+            "endpoints_in_bucket": 40,
+            "endpoints_in_pack": 40,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://sit.rivasciudad.es/server/rest/services/%C3%81reas_de_incidencia_COVID/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Áreas_de_incidencia_COVID",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          },
+          {
+            "service": "Cantabria",
+            "display": "Cantabria",
+            "host": "geoservicios.cantabria.es",
+            "endpoints_in_bucket": 15,
+            "endpoints_in_pack": 15,
+            "country_codes": [
+              "ES"
+            ],
+            "formats": [
+              "json"
+            ],
+            "formats_in_pack": 1,
+            "sample_url": "https://geoservicios.cantabria.es/inspire/rest/services/Ocio_Deportes_Turismo/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+            "sample_title": "Ocio_Deportes_Turismo",
+            "sample_format": "json",
+            "sample_last_tested": "2026-11-16"
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "q": "Which demographic indicators does the Canary Islands statistics service map by district?",
+      "filter": "url matches /datos\\.canarias\\.es/api/estadisticas//i",
+      "url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json",
+      "title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+      "service": "Datos Abiertos de Canarias",
+      "last_tested": "2026-11-16",
+      "matching": 1988
+    },
+    {
+      "q": "Which land-use layers does Castilla-La Mancha serve?",
+      "filter": "url matches /geoservicios\\.castillalamancha\\.es/arcgis/rest/services//i",
+      "url": "https://geoservicios.castillalamancha.es/arcgis/rest/services/SIOSE/SIOSE_2015/MapServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+      "title": "SIOSE/SIOSE_2015",
+      "service": "Castillalamancha",
+      "last_tested": "2026-11-16",
+      "matching": 74
+    },
+    {
+      "q": "Which layers does the national geographic institute serve?",
+      "filter": "url matches /serviciosgis\\.ign\\.es/servicios/rest/services//i",
+      "url": "https://serviciosgis.ign.es/servicios/rest/services/Hosted/Naturaleza/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json",
+      "title": "Hosted/Naturaleza",
+      "service": "Ign",
+      "last_tested": "2026-11-16",
+      "matching": 48
+    }
+  ],
+  "preview_focused": true,
+  "preview": [
+    {
+      "title": "Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 - Indicadores demográficos. Grandes comarcas de Canarias. 01/01/2023 (geoJSON)",
+      "service": "Datos Abiertos de Canarias",
+      "country": "ES",
+      "category": "Government & Open Data",
+      "subcategory": "",
+      "format": "json",
+      "tags": "no-key|json|agent-ready",
+      "last_tested": "2026-11-16",
+      "host": "datos.canarias.es",
+      "url": "https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=Grandes%20comarcas-20230101&outputFormat=application/json"
+    },
+    {
+      "title": "1996",
+      "service": "ArcGIS Online layers (services-eu1.arcgis.com, org C3HgCqjBMl1pyvzK)",
+      "country": "ES",
+      "category": "Navigation & Geo/Maps",
+      "subcategory": "",
+      "format": "json",
+      "tags": "no-key|json|agent-ready",
+      "last_tested": "2026-11-16",
+      "host": "services-eu1.arcgis.com",
+      "url": "https://services-eu1.arcgis.com/C3HgCqjBMl1pyvzK/ArcGIS/rest/services/1996/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json"
+    },
+    {
+      "title": "407_JACUAPA_WSL1",
+      "service": "ArcGIS Online layers (services-eu1.arcgis.com, org HuGcP11ciutroljg)",
+      "country": "ES",
+      "category": "Navigation & Geo/Maps",
+      "subcategory": "",
+      "format": "json",
+      "tags": "no-key|json|agent-ready",
+      "last_tested": "2026-11-16",
+      "host": "services-eu1.arcgis.com",
+      "url": "https://services-eu1.arcgis.com/HuGcP11ciutroljg/ArcGIS/rest/services/407_JACUAPA_WSL1/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json"
+    },
+    {
+      "title": "ÁMBITO_DE_ESTUDIO",
+      "service": "ArcGIS Online layers (services-eu1.arcgis.com, org LYlXCI0Cv1tEOvkM)",
+      "country": "ES",
+      "category": "Navigation & Geo/Maps",
+      "subcategory": "",
+      "format": "json",
+      "tags": "no-key|json|agent-ready",
+      "last_tested": "2026-11-16",
+      "host": "services-eu1.arcgis.com",
+      "url": "https://services-eu1.arcgis.com/LYlXCI0Cv1tEOvkM/ArcGIS/rest/services/%C3%81MBITO_DE_ESTUDIO/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json"
+    },
+    {
+      "title": "AREAS_CRITICAS_AGUILA_IMPERIAL1",
+      "service": "ArcGIS Online layers (services-eu1.arcgis.com, org LVA9E9zjh6QfM7Mo)",
+      "country": "ES",
+      "category": "Navigation & Geo/Maps",
+      "subcategory": "",
+      "format": "json",
+      "tags": "no-key|json|agent-ready",
+      "last_tested": "2026-11-16",
+      "host": "services-eu1.arcgis.com",
+      "url": "https://services-eu1.arcgis.com/LVA9E9zjh6QfM7Mo/ArcGIS/rest/services/AREAS_CRITICAS_AGUILA_IMPERIAL1/FeatureServer/0/query?where=1%3D1&outFields=*&resultRecordCount=10&f=json"
+    }
+  ],
+  "limits": [
+    {
+      "id": "record-count",
+      "text": "4,329 rows are map-layer queries with resultRecordCount set: the tested call asked for a few records; change the query to get the full layer."
+    },
+    {
+      "id": "pack",
+      "text": "4,152 rows are layers on ArcGIS Online, where anyone can publish: some are class projects, tests or copies. Check the owner and the fields before you rely on one. Layers whose titles read as a test, draft or copy are not used as starting points; named organisations come first in the recommended lists."
+    },
+    {
+      "id": "pack",
+      "text": "68 rows have a title that reads as a test, a draft, a copy or a sample; they are not used as starting points."
+    },
+    {
+      "id": "pack",
+      "text": "The country code (ES) is the code the endpoint is filed under, not the place the data covers and not always the publisher's country. Where a row had no code, the code of its ArcGIS organisation is used when that organisation lists one country only. This pack holds only rows on the EU-region ArcGIS Online host and rows on hosts that are not hosted ArcGIS; the other rows coded ES, mostly Spanish-language layers about Latin America, are left out of it. In a sample of 40 of its titles read before release, none was about a place outside Spain. Filter by title or service if you need data about one place."
+    },
+    {
+      "id": "quiet",
+      "text": "Stations and feeds can go quiet after their test date; re-test a URL before you rely on it."
+    },
+    {
+      "id": "not-in",
+      "text": "Not in this pack: endpoints that need a key or a POST, and URLs that did not pass."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 61 ArcGIS Survey123 layers (they can hold people's form answers)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 1 layer marked editable in the title (it can hold entries that people added)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 15 ArcGIS layers that keep a form's default service name (they can hold people's form answers)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 66 ArcGIS class or coursework layers (lab, assignment, exam, quiz, lesson, exercise, tutorial and final-project layers, copies of class layers, layers named for a person or a person's home, and layers whose name ends in a person's name or holds a student number)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 2 ArcGIS layers that are records about named people (employee, patient, client or donor lists, home addresses, voter lists, sex offender and missing person layers)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 2 rows of ArcGIS Online organisations that are class accounts (3 class sets or more in at least 20% of their rows, 10 class sets or more with no organisation name, or layers signed by students read by hand): their other layers are students' work too."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 6 rows of class sets: one map layer saved under 5 or more students' initials or names in one ArcGIS Online organisation, or in 4 or more students' own organisations."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 2 rows whose address is already in an earlier pack of the collection."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 412 rows that are another address form of an ArcGIS layer already in an earlier pack of the collection (the same rows under another query)."
+    },
+    {
+      "id": "left-out",
+      "text": "Left out: 1,391 rows that are a second address form of an ArcGIS layer in this list (the same rows under another query); one address is kept per layer, the newest test first."
+    }
+  ],
+  "name": "8.1k-spain-apis-for-agents",
+  "services_tested": null,
+  "services_file_rows": 141,
+  "sample_mix": [
+    {
+      "source": "ArcGIS Online layers",
+      "focus_rows": 4087,
+      "sample_rows": 500
+    },
+    {
+      "source": "Datos Abiertos de Canarias (datos.canarias.es)",
+      "focus_rows": 3810,
+      "sample_rows": 473
+    },
+    {
+      "source": "Castillalamancha (geoservicios.castillalamancha.es)",
+      "focus_rows": 74,
+      "sample_rows": 11
+    },
+    {
+      "source": "Ign (serviciosgis.ign.es)",
+      "focus_rows": 47,
+      "sample_rows": 7
+    },
+    {
+      "source": "Rivasciudad (sit.rivasciudad.es)",
+      "focus_rows": 40,
+      "sample_rows": 6
+    },
+    {
+      "source": "Cantabria (geoservicios.cantabria.es)",
+      "focus_rows": 13,
+      "sample_rows": 3
+    }
+  ],
+  "sample_focus_rows": 8071,
+  "sample_rule": "1,000 rows, or one third of the pack rounded down, whichever is smaller",
+  "files": [
+    {
+      "name": "data/Spain_API_Services_AgentPopulation.csv",
+      "rows": 141,
+      "bytes": 9285,
+      "sha256": "fd5f2ccb00394cc4907d6745c32d9bd8d207442213eb30de5af2842656848faf"
+    },
+    {
+      "name": "data/Spain_API_Endpoints_AgentPopulation_Sample.csv",
+      "rows": 1000,
+      "bytes": 362188,
+      "sha256": "416025a2fd778b48ca9bc433fb5e2d71fb8674d0473a505502a097a8c2f48267"
+    },
+    {
+      "name": "data/Spain_API_Endpoints_AgentPopulation_Sample.json",
+      "rows": 1000,
+      "bytes": 544975,
+      "sha256": "0769e3ec69f0dce8c2fb8f2cb9fabb9306e7ed6a26a28bc915c5f0331ce95110"
+    }
+  ],
+  "release_asset": {
+    "name": "Spain_API_Endpoints_AgentPopulation_Snapshot_2026-11-16.csv.gz",
+    "rows": 8139,
+    "bytes": 213514,
+    "raw_bytes": 3151700,
+    "sha256": "7193df356fddbc92a53c5045208cf0732af719fd3af4eb8da417293878ffe489",
+    "url": "https://github.com/agentpopulation/8.1k-spain-apis-for-agents/releases/latest/download/Spain_API_Endpoints_AgentPopulation_Snapshot_2026-11-16.csv.gz"
+  },
+  "release_tag": "snapshot-2026-11-16",
+  "overlaps": [
+    {
+      "repo": "weather-api-endpoints",
+      "name": "170k-weather-apis-for-agents",
+      "title": "Weather API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "transit-api-endpoints",
+      "name": "240k-transit-apis-for-agents",
+      "title": "Transit API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "water-api-endpoints",
+      "name": "260k-water-apis-for-agents",
+      "title": "Rivers and water API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "finance-economy-api-endpoints",
+      "name": "120k-finance-economy-apis-for-agents",
+      "title": "Finance and economy API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "india-api-endpoints",
+      "name": "130k-india-apis-for-agents",
+      "title": "India API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "government-open-data-api-endpoints",
+      "name": "1.2m-government-open-data-apis",
+      "title": "Government open data API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "statistics-api-endpoints",
+      "name": "270k-statistics-apis-for-agents",
+      "title": "Statistics and census API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "oceans-api-endpoints",
+      "name": "84k-oceans-apis-for-agents",
+      "title": "Ocean and marine API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "maritime-api-endpoints",
+      "name": "22k-maritime-apis-for-agents",
+      "title": "Maritime API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "environment-api-endpoints",
+      "name": "160k-environment-apis-for-agents",
+      "title": "Environment API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "air-quality-api-endpoints",
+      "name": "19k-air-quality-apis-for-agents",
+      "title": "Air quality API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "maps-gis-api-endpoints",
+      "name": "350k-maps-gis-apis-for-agents",
+      "title": "Maps and GIS API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "agent-ready-api-endpoints",
+      "name": "2.2m-agent-ready-apis",
+      "title": "Agent-ready API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "health-api-endpoints",
+      "name": "84k-health-apis-for-agents",
+      "title": "Health API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "science-api-endpoints",
+      "name": "380k-science-apis-for-agents",
+      "title": "Science API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "hazards-api-endpoints",
+      "name": "40k-hazards-apis-for-agents",
+      "title": "Hazards and alerts API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "wildfire-api-endpoints",
+      "name": "4.9k-wildfire-apis-for-agents",
+      "title": "Wildfire API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "energy-api-endpoints",
+      "name": "67k-energy-apis-for-agents",
+      "title": "Energy API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "aviation-api-endpoints",
+      "name": "23k-aviation-apis-for-agents",
+      "title": "Aviation API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "traffic-api-endpoints",
+      "name": "22k-traffic-apis-for-agents",
+      "title": "Traffic and roadworks API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "parking-api-endpoints",
+      "name": "10k-parking-apis-for-agents",
+      "title": "Parking API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "earthquake-api-endpoints",
+      "name": "7.8k-earthquake-apis-for-agents",
+      "title": "Earthquake API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "volcano-tsunami-api-endpoints",
+      "name": "4.2k-volcano-tsunami-apis-for-agents",
+      "title": "Volcano and tsunami API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "bike-share-api-endpoints",
+      "name": "17k-bike-share-apis-for-agents",
+      "title": "Bike-share API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "united-states-api-endpoints",
+      "name": "750k-united-states-apis-for-agents",
+      "title": "United States API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "united-kingdom-api-endpoints",
+      "name": "52k-united-kingdom-apis-for-agents",
+      "title": "United Kingdom API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "france-api-endpoints",
+      "name": "47k-france-apis-for-agents",
+      "title": "France API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "indonesia-api-endpoints",
+      "name": "22k-indonesia-apis-for-agents",
+      "title": "Indonesia API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "canada-api-endpoints",
+      "name": "19k-canada-apis-for-agents",
+      "title": "Canada API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "netherlands-api-endpoints",
+      "name": "17k-netherlands-apis-for-agents",
+      "title": "Netherlands API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "germany-api-endpoints",
+      "name": "14k-germany-apis-for-agents",
+      "title": "Germany API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "norway-api-endpoints",
+      "name": "12k-norway-apis-for-agents",
+      "title": "Norway API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "brazil-api-endpoints",
+      "name": "14k-brazil-apis-for-agents",
+      "title": "Brazil API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "japan-api-endpoints",
+      "name": "9.8k-japan-apis-for-agents",
+      "title": "Japan API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "australia-api-endpoints",
+      "name": "12k-australia-apis-for-agents",
+      "title": "Australia API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "colombia-api-endpoints",
+      "name": "10k-colombia-apis-for-agents",
+      "title": "Colombia API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "czechia-api-endpoints",
+      "name": "6.3k-czechia-apis-for-agents",
+      "title": "Czechia API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "poland-api-endpoints",
+      "name": "6.3k-poland-apis-for-agents",
+      "title": "Poland API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "taiwan-api-endpoints",
+      "name": "4.2k-taiwan-apis-for-agents",
+      "title": "Taiwan API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "italy-api-endpoints",
+      "name": "7.3k-italy-apis-for-agents",
+      "title": "Italy API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "new-zealand-api-endpoints",
+      "name": "6.1k-new-zealand-apis-for-agents",
+      "title": "New Zealand API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "nordic-api-endpoints",
+      "name": "13k-nordic-apis-for-agents",
+      "title": "Nordic API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "more-europe-api-endpoints",
+      "name": "24k-more-europe-apis-for-agents",
+      "title": "More Europe API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "latin-america-caribbean-api-endpoints",
+      "name": "20k-latin-america-caribbean-apis-for-agents",
+      "title": "Latin America and Caribbean API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "europe-region-arcgis-api-endpoints",
+      "name": "59k-europe-region-arcgis-apis-for-agents",
+      "title": "Europe-region ArcGIS API endpoints",
+      "shared": 4152
+    },
+    {
+      "repo": "middle-east-africa-api-endpoints",
+      "name": "6.7k-middle-east-africa-apis-for-agents",
+      "title": "Middle East and Africa API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "county-and-city-gis-api-endpoints",
+      "name": "160k-county-and-city-gis-apis-for-agents",
+      "title": "County and city GIS API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "public-agency-gis-api-endpoints",
+      "name": "47k-public-agency-gis-apis-for-agents",
+      "title": "Public agency GIS API endpoints",
+      "shared": 0
+    },
+    {
+      "repo": "arcgis-server-api-endpoints",
+      "name": "25k-arcgis-server-apis-for-agents",
+      "title": "ArcGIS Server API endpoints",
+      "shared": 177
+    }
+  ],
+  "pack_count": 50,
+  "description": "8,139 API endpoints filed under country code ES that passed a keyless data call. For agent tools, apps, pipelines and evals. CSV, CC BY 4.0.",
+  "readme_ap_share": 0.09,
+  "country_counts": {
+    "ES": 8139
+  }
+}
